@@ -1,0 +1,11 @@
+this is the file that is used for testing
+
+hello java from dev1
+{
+   int a=b;
+   int b=c;
+}
+system.debug(print the a and b);
+}
+
+
