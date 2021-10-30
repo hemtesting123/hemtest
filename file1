@@ -1,11 +1,12 @@
 this is the file that is used for testing
 
-hello java from dev1
+hello java from dev2
 {
    int a=b;
    int b=c;
+   int c=a;
 }
-system.debug(print the a and b);
+system.debug(print the a and b and c);
 }
 
 
